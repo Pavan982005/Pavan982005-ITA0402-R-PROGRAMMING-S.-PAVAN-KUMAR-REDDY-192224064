@@ -1,0 +1,4 @@
+
+
+d<-read.csv("C:/Users/K.JAYADATTA/Documents/bobby.csv")
+print(d)
